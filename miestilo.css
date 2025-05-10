@@ -11,3 +11,10 @@ body {
     font-weight: bold;
     font-style: italic;
 }
+
+.seccion-parrafo {
+    font-size: 2rem;
+    border: 1rem blue solid;
+    margin: 0 auto;
+    width: 400px;    
+}
